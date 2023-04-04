@@ -1,6 +1,6 @@
-const date = (2050)
-const status = ("parent")
-const count = (9)
+const date = 2050
+const status = "parent"
+const count = 9
 
 if (date = 2050) {
 	console.log("January", 'New Year’s Day')
